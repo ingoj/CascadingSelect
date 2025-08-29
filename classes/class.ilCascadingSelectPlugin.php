@@ -2,8 +2,6 @@
 
 declare(strict_types=1);
 
-/* Copyright (c) 1998-2010 ILIAS open source, Extended GPL, see docs/LICENSE */
-
 use Leifos\CascadingSelect\Settings;
 use Leifos\CascadingSelect\UI\Presenter;
 use Leifos\CascadingSelect\DataObjects\Factory;

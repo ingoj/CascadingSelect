@@ -3,10 +3,10 @@
 This ILIAS plugin provides a custom user data field that provides the possibility to create cascading selection lists.
 
 **Minimum ILIAS Version:**
-9.0
+10.0
 
 **Maximum ILIAS Version:**
-9.99
+10.99
 
 **Responsible Developer:**
 Tim Schmitz <schmitz at leifos dot de>
@@ -16,7 +16,7 @@ German, English
 
 
 ### Quick Installation Guide
-1. Copy the content of this folder in <ILIAS_directory>/Customizing/global/plugins/Services/User/UDFDefinition/CascadingSelect
+1. Copy the content of this folder in <ILIAS_directory>/public/Customizing/global/plugins/Services/User/UDFDefinition/CascadingSelect
 
 2. In the root folder of ILIAS, call `composer du`.
 
